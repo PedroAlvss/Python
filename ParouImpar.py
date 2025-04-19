@@ -1,5 +1,3 @@
-import math
-
 print("Digite um valor: ")
 num = int(input())
 

@@ -1,5 +1,3 @@
-import math
-
 print("Digite um valor para A")
 a = int(input())
 print("Digite um valor pra B>:")

@@ -1,4 +1,3 @@
-import math 
 i = 0
 print("---TABUADA---")
 print("Digite um valor: ")
